@@ -1,0 +1,25 @@
+# Read csv: Python exercise for T Level Digital Software Development
+
+> **From the lesson:** [6.5: Text, CSV, JSON and XML](https://mitsurutech.co.uk/resources/t-level/dsd-6-5-text-csv-json-xml)
+
+## What to do
+
+The text is a CSV of trip students with the headings name, age and paid. Fill in the two functions. The first gives back the names. The second gives back the total paid as a float.
+
+## Starter files
+
+- `main.py`
+
+Write your answer in `main.py`. To try it, add a few `print(...)` lines at the bottom and run `python3 main.py`.
+
+## Stuck?
+
+Read the free [lesson preview](https://mitsurutech.co.uk/resources/t-level/dsd-6-5-text-csv-json-xml), which explains the idea and lets you try its first activities. All the lessons have [free previews](https://mitsurutech.co.uk/resources/t-level).
+
+## Having your work marked
+
+There is no answer file and no test here, on purpose. On the [MitsuruTech Learning Platform](https://mitsurutech.co.uk/learning) a teacher can set this task for a class and have it marked for them. A college account is [free for the first year](https://mitsurutech.co.uk/pricing) for up to 50 students.
+
+[All Python exercises](../../../README.md)
+
+Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) by Mitsuru Technologies Ltd.
